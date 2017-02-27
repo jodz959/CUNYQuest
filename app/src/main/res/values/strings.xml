@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CUNYQuest</string>
+    <string name="buttonCreateAccount">Create Account</string>
+    <string name="buttonSignIn">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="btnReset">Reset Password</string>
+    <string name="oR">Or</string>
+    <string name="message">Ask a Question</string>
+    <string name="cancel">Cancel</string>
+    <string name="helpful">Helpful</string>
+    <string name="not_helpful">Not Helpful</string>
+    <string name="complete_profile">Complete Profile</string>
+    <string name="student">Current Student</string>
+    <string name="potential">Potential Student</string>
+    <string name="type_student">Type of Student</string>
+    <string-array name="cuny_schools">
+        <item>Select School</item>
+        <item>Baruch College</item>
+        <item>Borough of Manhattan Community College</item>
+        <item>City College of New York</item>
+        <item>Hunter College</item>
+        <item>Brooklyn College</item>
+        <item>Lehman College</item>
+        <item>John Jay College of Criminal Justice</item>
+        <item>Queens College</item>
+        <item>College of Staten Island</item>
+    </string-array>
+    <string-array name="majors">
+        <item>Select a Major</item>
+        <item>Computer Science</item>
+        <item>Computer Information Systems</item>
+        <item>Geographical Information Science</item>
+        <item>Computer Engineering</item>
+        <item>Information Technology</item>
+        <item>Computer Networking and Telecommunications</item>
+        <item>Computer Security</item>
+        <item>Computer Forensics</item>
+    </string-array>
+    <string name="update">Submit</string>
+</resources>

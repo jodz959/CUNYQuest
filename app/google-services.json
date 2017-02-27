@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74130792310",
+    "firebase_url": "https://cunyquest.firebaseio.com",
+    "project_id": "cunyquest",
+    "storage_bucket": "cunyquest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74130792310:android:02d2f77e45b57e73",
+        "android_client_info": {
+          "package_name": "cunycodes.org.cunyquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74130792310-nijv0mesfb19vgama9i2j3vouidbj9su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BU3q9kb2BSrQYTCeU01ehmJ8R_vtbv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
